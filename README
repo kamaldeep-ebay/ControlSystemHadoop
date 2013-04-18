@@ -1,0 +1,3 @@
+
+This project is aimed at finding out the nodes that might go down due to memory issues / HDD space and flag them . The script.sh file is used to get those stats
+
